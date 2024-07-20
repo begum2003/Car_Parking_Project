@@ -1,0 +1,4 @@
+smtplib==0.1.0
+numpy
+opencv-python
+opencv-contrib-python >=4.9.0.80
